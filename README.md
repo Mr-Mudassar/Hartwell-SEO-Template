@@ -9,6 +9,8 @@ A high-end, dark-themed agency website template built with **Next.js 16**, **Rea
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?style=flat-square&logo=tailwindcss)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+[![Live Preview](https://img.shields.io/badge/Live_Preview-Visit_Site-C8A567?style=for-the-badge&logo=vercel&logoColor=white)](https://hartwell-seo-template.vercel.app/)
+
 ---
 
 ## Features
