@@ -1,0 +1,6 @@
+export const TRANSITION = {
+  COVER_DURATION: 550,
+  COVER_DELAY: 40,
+  SWAP_DELAY: 520,
+  TOTAL_DURATION: 1100,
+} as const;
