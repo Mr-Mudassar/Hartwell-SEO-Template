@@ -6,7 +6,8 @@
       "Bash(npm install -D @types/three)"
     ],
     "additionalDirectories": [
-      "\\tmp\\seo-sharks\\project"
+      "\\tmp\\seo-sharks\\project",
+      "d:\\Projects\\Personal\\heartwell-seo\\nextjs-app"
     ]
   }
 }

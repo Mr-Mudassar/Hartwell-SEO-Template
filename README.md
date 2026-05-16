@@ -11,6 +11,24 @@ A high-end, dark-themed agency website template built with **Next.js 16**, **Rea
 
 ---
 
+## Screenshots
+
+### Home Page
+| Hero & Globe | Service Pillars | Process |
+|:---:|:---:|:---:|
+| ![Hero](screenshots/home-hero.png) | ![Pillars](screenshots/home-pillars.png) | ![Process](screenshots/home-process.png) |
+
+### Interior Pages
+| Services | Case Studies | About |
+|:---:|:---:|:---:|
+| ![Services](screenshots/services.png) | ![Case Studies](screenshots/case-studies.png) | ![About](screenshots/about.png) |
+
+| Contact | Engagements | Insights |
+|:---:|:---:|:---:|
+| ![Contact](screenshots/contact.png) | ![Engagements](screenshots/engagements.png) | ![Insights](screenshots/insights.png) |
+
+---
+
 ## Features
 
 ### 3D Visualizations
